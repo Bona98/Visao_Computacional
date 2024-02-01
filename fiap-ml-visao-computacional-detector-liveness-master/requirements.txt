@@ -1,0 +1,8 @@
+opencv-python-headless==4.5.3.56
+protobuf~=3.19.0
+streamlit==1.11.1
+tensorflow==2.15.0
+keras==2.15.0
+opencv-python==4.8.0.76
+numpy==1.23.5
+matplotlib==3.7.1
